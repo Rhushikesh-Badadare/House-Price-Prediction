@@ -1,4 +1,4 @@
-# HousePricePrediction
+# House-Price-Prediction
 
 House price model is built using ML Algorithm and DL Algorithm ANN.
 
